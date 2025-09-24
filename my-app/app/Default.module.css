@@ -1,0 +1,17 @@
+.tabDefault {
+  	position: relative;
+  	width: 100%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	text-align: left;
+  	font-size: 18px;
+  	color: #25282b;
+  	font-family: Raleway;
+}
+.sobre {
+  	position: relative;
+  	line-height: 28px;
+  	font-weight: 500;
+}
+
